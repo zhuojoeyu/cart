@@ -27,6 +27,7 @@ public class StoreServlet extends HttpServlet
         this.products.put(5, "Tape");
         this.products.put(6, "main");
         this.products.put(7, "branch");
+        this.products.put(8, "main2");
     }
 
     @Override
