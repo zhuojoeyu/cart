@@ -20,6 +20,7 @@ public class StoreServlet extends HttpServlet
 
     public StoreServlet()
     {
+    		//type sth. to test
         this.products.put(1, "Sandpaper");
         this.products.put(2, "Nails");
         this.products.put(3, "Glue");
